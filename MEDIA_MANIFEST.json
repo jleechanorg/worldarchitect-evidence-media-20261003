@@ -1,0 +1,186 @@
+{
+  "generated_utc": "2026-10-03T22:42:42.216607+00:00",
+  "purpose": "MIME-correct Pages copies of exact bytes from unlisted evidence gists; original gists remain evidence record",
+  "items": [
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "browser_pr9975_browser_captioned.gif",
+      "path": "media/pr9975/browser_pr9975_browser_captioned.gif",
+      "bytes": 19765213,
+      "sha256": "c0960aa7fe70743723da94f03a0992b611a7624c8e8f9809b5a921bfcb8dd942",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/bb30ba3ebc3cc85e4a70651c57f70f0b3d89a280/browser_pr9975_browser_captioned.gif"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "browser_pr9975_browser_captioned.mp4",
+      "path": "media/pr9975/browser_pr9975_browser_captioned.mp4",
+      "bytes": 1905828,
+      "sha256": "d16e63ce7426fa6d8a8d029fd55dd2e29e9d47226380503be905ac4685e262f0",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/8823a56d2bfc7db6aa0e8e30a8421ca8e63d204b/browser_pr9975_browser_captioned.mp4"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "browser_raw.mp4",
+      "path": "media/pr9975/browser_raw.mp4",
+      "bytes": 2503104,
+      "sha256": "ef1718cc223b17479ec05a555356c3f230ebc7e9a3ba03abed01a753dbaaebba",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/1e68decc904197fdb50c220d5a4ef81aa8c266ae/browser_raw.mp4"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "browser_raw.webm",
+      "path": "media/pr9975/browser_raw.webm",
+      "bytes": 3696907,
+      "sha256": "037525a677ecaa771f36659a68311451dd70fb3540153d45225240feb9eca2f4",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/cde75fbc309eeaf686ad47e83755130082f0a267/browser_raw.webm"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "terminal.gif",
+      "path": "media/pr9975/terminal.gif",
+      "bytes": 10399072,
+      "sha256": "2dea8048fcef6f0098b143c9ce8693c570bca870fb401f118da585bdb7d84bc0",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/2dd504ccf384f1cbcb7f9eed8ca75cbcad4943ff/terminal.gif"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "terminal.mp4",
+      "path": "media/pr9975/terminal.mp4",
+      "bytes": 8286261,
+      "sha256": "adb682a7fa2fcec3a85d93d88a6d4f643f698e894d30f0e5c1a81338701b0b98",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/f110386cbee029b11c6876898b230ac973b59292/terminal.mp4"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "browser__browser_ready.mp4",
+      "path": "media/pr10050/browser__browser_ready.mp4",
+      "bytes": 6290428,
+      "sha256": "a4c1ef255381eb3d6f7ee852950100e20310f435e970ea85180a3b408110c7c5",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/a9c6e538d8d6ceb72bbfbf8b50268369661d9a85/browser__browser_ready.mp4"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "browser__browser_source.webm",
+      "path": "media/pr10050/browser__browser_source.webm",
+      "bytes": 12440607,
+      "sha256": "c82f8b18af8c99534c632b61a6e1e068d7c3f99ea3cb317b8eceb6417c0d6be8",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/338782fffbb8a2b74dbd8b15a6e2ebebaa84227b/browser__browser_source.webm"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "browser__browser_visual_review.gif",
+      "path": "media/pr10050/browser__browser_visual_review.gif",
+      "bytes": 532752,
+      "sha256": "f46e73229bf04b242b57644ed808d0aabc9702b1770109dbead9cc493383be9a",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/7572fcb7c20d0883dd7a2e17cf433b130ba03491/browser__browser_visual_review.gif"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "browser_ready.mp4",
+      "path": "media/pr10050/browser_ready.mp4",
+      "bytes": 6290428,
+      "sha256": "a4c1ef255381eb3d6f7ee852950100e20310f435e970ea85180a3b408110c7c5",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/a9c6e538d8d6ceb72bbfbf8b50268369661d9a85/browser_ready.mp4"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "browser_source.webm",
+      "path": "media/pr10050/browser_source.webm",
+      "bytes": 12440607,
+      "sha256": "c82f8b18af8c99534c632b61a6e1e068d7c3f99ea3cb317b8eceb6417c0d6be8",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/338782fffbb8a2b74dbd8b15a6e2ebebaa84227b/browser_source.webm"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "browser_visual_review.gif",
+      "path": "media/pr10050/browser_visual_review.gif",
+      "bytes": 532752,
+      "sha256": "f46e73229bf04b242b57644ed808d0aabc9702b1770109dbead9cc493383be9a",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/7572fcb7c20d0883dd7a2e17cf433b130ba03491/browser_visual_review.gif"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "independent__postrun-verification.gif",
+      "path": "media/pr10050/independent__postrun-verification.gif",
+      "bytes": 199258,
+      "sha256": "43cef907f419ae1ecc8e85ea8bf6c56c2ff75f3913dd363172daea462898d3fc",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/c6ccb295d73e82a65446bd86af8d0cd626047d7d/independent__postrun-verification.gif"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "independent__postrun-verification.mp4",
+      "path": "media/pr10050/independent__postrun-verification.mp4",
+      "bytes": 197763,
+      "sha256": "2c6ce77dc9a33383272225a6d7ed1c5bb9a4f53565931fbe1d6912da2b36a84a",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/65445506d95e3fed5a2802845e195d9bbcd18615/independent__postrun-verification.mp4"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "postrun-verification.gif",
+      "path": "media/pr10050/postrun-verification.gif",
+      "bytes": 199258,
+      "sha256": "43cef907f419ae1ecc8e85ea8bf6c56c2ff75f3913dd363172daea462898d3fc",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/c6ccb295d73e82a65446bd86af8d0cd626047d7d/postrun-verification.gif"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "postrun-verification.mp4",
+      "path": "media/pr10050/postrun-verification.mp4",
+      "bytes": 197763,
+      "sha256": "2c6ce77dc9a33383272225a6d7ed1c5bb9a4f53565931fbe1d6912da2b36a84a",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/65445506d95e3fed5a2802845e195d9bbcd18615/postrun-verification.mp4"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "reward_progression_integrity_real_5cc479_result_PASS_stale_snapshot_shape.gif",
+      "path": "media/pr10050/reward_progression_integrity_real_5cc479_result_PASS_stale_snapshot_shape.gif",
+      "bytes": 65882,
+      "sha256": "1a61281861ef0b703b9dacd9f55a99f779ac91f12abe963ff03c67c14f739a22",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/c406fa2017de8dfaa16d4908f81a033e83b43754/reward_progression_integrity_real_5cc479_result_PASS_stale_snapshot_shape.gif"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "reward_progression_integrity_real_5cc479_result_PASS_stale_snapshot_shape.mp4",
+      "path": "media/pr10050/reward_progression_integrity_real_5cc479_result_PASS_stale_snapshot_shape.mp4",
+      "bytes": 110981,
+      "sha256": "805aea29060dc61490b461d2a289eb47336285446611c3f0887300deef34034c",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/96d428492e6dd6298439353870b5b825ad3165d5/reward_progression_integrity_real_5cc479_result_PASS_stale_snapshot_shape.mp4"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "service_5cc479_terminal.gif",
+      "path": "media/pr10050/service_5cc479_terminal.gif",
+      "bytes": 65882,
+      "sha256": "1a61281861ef0b703b9dacd9f55a99f779ac91f12abe963ff03c67c14f739a22",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/c406fa2017de8dfaa16d4908f81a033e83b43754/service_5cc479_terminal.gif"
+    },
+    {
+      "pr": "pr10050",
+      "gist": "459bb4c9568fec8805a19d36bd8b5037",
+      "name": "service_5cc479_terminal.mp4",
+      "path": "media/pr10050/service_5cc479_terminal.mp4",
+      "bytes": 110981,
+      "sha256": "805aea29060dc61490b461d2a289eb47336285446611c3f0887300deef34034c",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/96d428492e6dd6298439353870b5b825ad3165d5/service_5cc479_terminal.mp4"
+    }
+  ]
+}
