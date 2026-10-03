@@ -1,0 +1,38 @@
+{
+  "source_head": "d919cad622c8e947c4994f5e7ffb4f19658c51ae",
+  "source_cast": "/tmp/pr9975-green-media-corrected-d919cad6-X8TEa7/green_terminal_source_v3.cast",
+  "source_cast_sha256": "c287041205a6986d97c09b53053607ae98f94fc8a826bc42fdc5ecedf6234caa",
+  "normalized_cast": "/tmp/pr9975-green-media-corrected-d919cad6-X8TEa7/green_terminal_normalized_v2.cast",
+  "normalized_cast_sha256": "2869b21bed3d7667398515c4936815555db7292d2f73c86824cb8f6c140fc4e5",
+  "normalization": "asciinema convert -q --overwrite -f asciicast-v2; event payload/type preserved, cumulative v2 timestamps monotonic",
+  "idle_compression": "agg --idle-time-limit 5 --fps-cap 10; no event content synthesized",
+  "run_result": "current corrected provider run 2/2 PASS; no provider rerun for media",
+  "facts": [
+    "finish raw XP 64000 unchanged",
+    "finish reward receipt gained 0",
+    "finish raw rewards_box absent",
+    "pending gold 27 and waystation compass retained",
+    "ordinary streaming reward +450",
+    "final raw XP 64450"
+  ],
+  "prior_browser_note": "Older browser proof showed a separate ordinary +100 run; this current provider capture shows +450.",
+  "media": {
+    "green_terminal.mp4": {
+      "path": "media/pr9975/green_terminal.mp4",
+      "sha256": "2e6d951c6f1dd4885687ecfb57183002358ad15b09b63a985ca4242854b77a94",
+      "bytes": 378306
+    },
+    "green_terminal.gif": {
+      "path": "media/pr9975/green_terminal.gif",
+      "sha256": "3b3a67121b62e9402353f2a3c10db3a68c85b483258bd676e432b5371d40b771",
+      "bytes": 1814473
+    },
+    "green_terminal.vtt": {
+      "path": "media/pr9975/green_terminal.vtt",
+      "sha256": "7519030b83dd67a286b2504a85da11bbe73f7614cfe6961c7020a3623bcb5b5e",
+      "bytes": 474
+    }
+  },
+  "failed_prior_conversion_stage": "/tmp/pr9975-green-media-d919cad6-keFuUi (preserved; not published)",
+  "published_receipt": "media/pr9975/green_terminal.json"
+}

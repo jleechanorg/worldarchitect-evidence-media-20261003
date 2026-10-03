@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+PR #9975 | source d919cad | current corrected provider run: 2/2 PASS
+
+00:00:05.000 --> 00:00:13.000
+Finish choice used full rendered text on the real streaming route
+
+00:00:13.000 --> 00:00:22.000
+Finish: reward XP 0 | raw XP stayed 64000 | stale rewards_box absent
+
+00:00:22.000 --> 00:00:28.000
+Pending loot retained | 27 gold | waystation compass
+
+00:00:28.000 --> 00:00:34.000
+Ordinary streaming: +450 XP saved | final raw XP 64450
