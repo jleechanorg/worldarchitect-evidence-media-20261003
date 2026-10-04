@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.693
+Screenshot: game_page
+
+00:00:00.000 --> 00:00:06.000
+BEFORE ordinary_exchange_tangible_replay http://127.0.0.1:60919/game/tBZ6mS6K48tXfRw5z2Mz | SHA 93db01783d721c1f389a8f749d19c5d211e24da4
+
+00:00:00.650 --> 00:00:03.650
+Screenshot: tBZ6mS6K48tXfRw5z2Mz_before_mobile (ordinary_exchange_tangible_replay BEFORE | 93db01783d721c1f389a8f749d19c5d211e24da4)
+
+00:00:01.089 --> 00:00:04.089
+Screenshot: tBZ6mS6K48tXfRw5z2Mz_before_desktop (ordinary_exchange_tangible_replay BEFORE | 93db01783d721c1f389a8f749d19c5d211e24da4)
+
+00:00:01.277 --> 00:00:07.277
+ACTION ordinary_exchange_tangible_replay: reloading saved ordinary reward | http://127.0.0.1:60919/game/tBZ6mS6K48tXfRw5z2Mz | SHA 93db01783d721c1f389a8f749d19c5d211e24da4
+
+00:00:06.087 --> 00:00:12.087
+AFTER ordinary_exchange_tangible_replay: saved ordinary reward reloaded | http://127.0.0.1:60919/game/tBZ6mS6K48tXfRw5z2Mz | SHA 93db01783d721c1f389a8f749d19c5d211e24da4
+
+00:00:06.449 --> 00:00:09.449
+Screenshot: tBZ6mS6K48tXfRw5z2Mz_after_mobile (ordinary_exchange_tangible_replay AFTER | 93db01783d721c1f389a8f749d19c5d211e24da4)
+
+00:00:06.863 --> 00:00:09.863
+Screenshot: tBZ6mS6K48tXfRw5z2Mz_after_desktop (ordinary_exchange_tangible_replay AFTER | 93db01783d721c1f389a8f749d19c5d211e24da4)
