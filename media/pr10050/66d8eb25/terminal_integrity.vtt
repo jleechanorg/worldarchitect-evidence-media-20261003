@@ -1,0 +1,35 @@
+WEBVTT
+
+00:00:02.000 --> 00:00:03.500
+=== LANE integrity — PR #10050 real-service evidence ===
+
+00:00:02.038 --> 00:00:04.495
+PRE_SHA=66d8eb25f3e2a54ca1af2d765108c873265db061
+
+00:00:04.495 --> 00:00:05.995
+SCENARIO legacy_preservation: passed=True errors=[]
+
+00:00:04.496 --> 00:00:05.996
+SCENARIO collision: passed=False errors=['NOT-YET-DRIVEN: two positive raw same-source receipts required']
+
+00:00:04.497 --> 00:00:05.997
+SCENARIO service_barrier_race: passed=True errors=[]
+
+00:00:04.497 --> 00:00:06.507
+SCENARIO service_non_xp_stale_snapshot: passed=True errors=[]
+
+00:00:06.507 --> 00:00:08.007
+Total scenarios: 6
+
+00:00:06.507 --> 00:00:08.007
+Pass rate: 5/6 (83%)
+
+00:00:06.516 --> 00:00:08.016
+EXIT=1
+
+00:00:06.539 --> 00:00:08.039
+POST_SHA=66d8eb25f3e2a54ca1af2d765108c873265db061
+
+00:00:06.539 --> 00:00:10.539
+SHA MATCH
+
