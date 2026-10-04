@@ -1,0 +1,13 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+PR #9975 | live stacked head e034fc05 | real streaming GREEN
+
+00:00:02.000 --> 00:00:04.000
+Character creation finish: no false reward card | XP remains 64000
+
+00:00:04.000 --> 00:00:06.000
+Pending creation loot retained | 27 gold | waystation compass
+
+00:00:06.000 --> 00:00:08.660
+Ordinary streaming +50 XP | final XP 64050 | 2/2 scenarios PASS

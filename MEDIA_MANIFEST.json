@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-10-03T22:42:42.216607+00:00",
-  "purpose": "MIME-correct Pages copies of exact bytes from unlisted evidence gists; original gists remain evidence record",
+  "generated_utc": "2026-10-04T01:29:27.320758+00:00",
+  "purpose": "MIME-correct Pages copies of exact-byte media from unlisted gists; current PR9975 live e034 media is derived from the exact raw cast and bound by source_cast_sha256",
   "items": [
     {
       "pr": "pr9975",
@@ -181,6 +181,39 @@
       "bytes": 110981,
       "sha256": "805aea29060dc61490b461d2a289eb47336285446611c3f0887300deef34034c",
       "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/459bb4c9568fec8805a19d36bd8b5037/raw/96d428492e6dd6298439353870b5b825ad3165d5/service_5cc479_terminal.mp4"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "live_e034_terminal.gif",
+      "path": "media/pr9975/live_e034_terminal.gif",
+      "bytes": 1589627,
+      "sha256": "76d44ebb837f4177fa634278c000203f87cf151b6225bd83f9c7b68fce76a702",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/pr9975_live_e034_terminal.cast",
+      "source_cast_sha256": "b6d7c148fc6faacc790013ae76957aefea0d7e0e3bac55ba39ea40eb91d96ae5",
+      "head": "e034fc05151310d531b04c9615a3d92c541e6dbe"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "live_e034_terminal.mp4",
+      "path": "media/pr9975/live_e034_terminal.mp4",
+      "bytes": 984942,
+      "sha256": "6dc29ef79be4cb8f70302bc0bb08726e3b0d54dbb6c4c18bc37ca31faa3e57b6",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/pr9975_live_e034_terminal.cast",
+      "source_cast_sha256": "b6d7c148fc6faacc790013ae76957aefea0d7e0e3bac55ba39ea40eb91d96ae5",
+      "head": "e034fc05151310d531b04c9615a3d92c541e6dbe"
+    },
+    {
+      "pr": "pr9975",
+      "gist": "fa6f483094c752a614c0b2aa153c7210",
+      "name": "live_e034_terminal.vtt",
+      "path": "media/pr9975/live_e034_terminal.vtt",
+      "bytes": 385,
+      "sha256": "1c709c7344a6e04eb58b347ccbf800fa33bf8ce576b51bb24120b00839215233",
+      "source_raw_url": "https://gist.githubusercontent.com/jleechan2015/fa6f483094c752a614c0b2aa153c7210/raw/pr9975_live_e034_terminal.cast",
+      "source_cast_sha256": "b6d7c148fc6faacc790013ae76957aefea0d7e0e3bac55ba39ea40eb91d96ae5",
+      "head": "e034fc05151310d531b04c9615a3d92c541e6dbe"
     }
   ]
 }
