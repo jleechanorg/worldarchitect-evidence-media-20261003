@@ -1,0 +1,25 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.735
+Screenshot: game_page
+
+00:00:00.000 --> 00:00:06.000
+BEFORE legacy_preservation http://127.0.0.1:8051/game/IbUSGyg3M52f4F8cKsux | SHA af6b8de1199996d6162584005b8680794cf6b7f5
+
+00:00:00.330 --> 00:00:03.330
+Screenshot: IbUSGyg3M52f4F8cKsux_before_mobile (legacy_preservation BEFORE | af6b8de1199996d6162584005b8680794cf6b7f5)
+
+00:00:00.675 --> 00:00:03.675
+Screenshot: IbUSGyg3M52f4F8cKsux_before_desktop (legacy_preservation BEFORE | af6b8de1199996d6162584005b8680794cf6b7f5)
+
+00:00:01.110 --> 00:00:07.110
+ACTION legacy_preservation: I walk down the village street and observe the evening sky. | http://127.0.0.1:8051/game/IbUSGyg3M52f4F8cKsux | SHA af6b8de1199996d6162584005b8680794cf6b7f5
+
+00:00:23.350 --> 00:00:29.350
+AFTER legacy_preservation: ordinary turn saved | http://127.0.0.1:8051/game/IbUSGyg3M52f4F8cKsux | SHA af6b8de1199996d6162584005b8680794cf6b7f5
+
+00:00:23.656 --> 00:00:26.656
+Screenshot: IbUSGyg3M52f4F8cKsux_after_mobile (legacy_preservation AFTER | af6b8de1199996d6162584005b8680794cf6b7f5)
+
+00:00:23.987 --> 00:00:26.987
+Screenshot: IbUSGyg3M52f4F8cKsux_after_desktop (legacy_preservation AFTER | af6b8de1199996d6162584005b8680794cf6b7f5)
